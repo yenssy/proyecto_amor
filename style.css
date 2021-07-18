@@ -1,0 +1,28 @@
+body {
+    background-color: #d9afd9;
+    background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+}
+h1 {
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-style: italic;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    position: relative;
+    left: 450px;
+}
+
+a {
+    color: red;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,30 @@
+body{background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98,58,162,1) 90% );;}
+h1{font-style: italic;
+    display: flex;
+justify-content: center;
+color: skyblue;}
+
+h2{font-style: italic;
+display: flex;
+justify-content: center;
+color: skyblue;}
+
+p{font-style: italic;
+    font-size:  20px;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: turquoise;
+}
+
+img{
+    position: relative;
+    left: 550px;
+}
+
+a{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
